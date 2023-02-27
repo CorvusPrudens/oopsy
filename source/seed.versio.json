@@ -1,10 +1,6 @@
 {
 	"name":"versio",
-	"som":"seed",
-	"defines": {
-		"OOPSY_TARGET_VERSIO": 1
-	},
-	"max_apps": 1,
+	"defines": {},
 	"components": {
 		"knob1": {
 			"component": "AnalogControl",

@@ -1,6 +1,5 @@
 {
 	"name":"bluemchen",
-	"som": "seed",
 	"max_apps": 8,
 	"defines": {
 		"OOPSY_TARGET_HAS_MIDI_INPUT": 1
